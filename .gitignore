@@ -1,0 +1,28 @@
+# Virtual Environment
+p_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.model
+*.bin
+
+# Dataset files
+data/
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
