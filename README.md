@@ -81,18 +81,13 @@ The visualization reveals natural clusters of:
 
 PotterVec/
 │
-├── app.py
-├── train.py
-├── visualize.py
+├── main.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
 │
 ├── data/
 │   └── Harry_Potter_all_books_preprocessed.txt
-│
-└── models/
-    └── potter_word2vec.model
 
 ---
 
